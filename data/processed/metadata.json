@@ -1,0 +1,46 @@
+{
+  "total_posts": 2677,
+  "total_unique_hashtags": 2200,
+  "total_rules_all": 1938,
+  "avg_lift": 7.13,
+  "max_confidence": 1.0,
+  "min_support_used": 0.02,
+  "min_confidence_used": 0.4,
+  "universities": {
+    "binus": {
+      "total_posts": 446,
+      "total_rules": 205,
+      "name_short": "BINUS"
+    },
+    "telkom": {
+      "total_posts": 488,
+      "total_rules": 31484,
+      "name_short": "Tel-U"
+    },
+    "atmajaya": {
+      "total_posts": 500,
+      "total_rules": 1034,
+      "name_short": "Atma Jaya"
+    },
+    "uii": {
+      "total_posts": 499,
+      "total_rules": 111,
+      "name_short": "UII"
+    },
+    "umy": {
+      "total_posts": 479,
+      "total_rules": 1780,
+      "name_short": "UMY"
+    },
+    "pcu": {
+      "total_posts": 452,
+      "total_rules": 2395,
+      "name_short": "UK Petra"
+    },
+    "ums": {
+      "total_posts": 498,
+      "total_rules": 56955,
+      "name_short": "UMS"
+    }
+  }
+}

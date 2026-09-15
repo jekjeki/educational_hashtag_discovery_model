@@ -1,0 +1,165 @@
+{
+  "recommendations": [
+    {
+      "hashtag": "creatingthefuture",
+      "source": "arm",
+      "reasoning": "Menekankan peran lulusan dalam membentuk masa depan.",
+      "viral_score": 63.6,
+      "avg_likes": 1345.95,
+      "avg_comments": 13.88,
+      "post_count": 373,
+      "lift": 10.61,
+      "frequency": 373
+    },
+    {
+      "hashtag": "homeforthebright",
+      "source": "vocabulary",
+      "reasoning": "Memberi nuansa institusi sebagai tempat pembentukan talenta cerdas yang diwisuda.",
+      "viral_score": 53.97,
+      "avg_likes": 392.26,
+      "avg_comments": 4.36,
+      "post_count": 182,
+      "lift": 5.44,
+      "frequency": 182
+    },
+    {
+      "hashtag": "searchingforfutureleaders",
+      "source": "vocabulary",
+      "reasoning": "Wisuda sering diposisikan sebagai kelahiran pemimpin masa depan.",
+      "viral_score": 53.92,
+      "avg_likes": 388.53,
+      "avg_comments": 3.06,
+      "post_count": 140,
+      "lift": 3.06,
+      "frequency": 140
+    },
+    {
+      "hashtag": "wholepersoneducation",
+      "source": "vocabulary",
+      "reasoning": "Menekankan pendidikan holistik yang mungkin dirayakan pada wisuda.",
+      "viral_score": 53.86,
+      "avg_likes": 382.27,
+      "avg_comments": 4.2,
+      "post_count": 184,
+      "lift": 5.44,
+      "frequency": 184
+    },
+    {
+      "hashtag": "wisuda",
+      "source": "vocabulary",
+      "reasoning": "Tag inti untuk konten kelulusan/seremonial wisuda.",
+      "viral_score": 53.02,
+      "avg_likes": 3594.12,
+      "avg_comments": 27.82,
+      "post_count": 17,
+      "lift": 2.2,
+      "frequency": 16
+    },
+    {
+      "hashtag": "contributetotheworld",
+      "source": "arm",
+      "reasoning": "Mengaitkan kelulusan dengan kontribusi sosial/keilmuan ke masyarakat.",
+      "viral_score": 51.31,
+      "avg_likes": 1349.74,
+      "avg_comments": 13.51,
+      "post_count": 472,
+      "lift": 1.77,
+      "frequency": 472
+    },
+    {
+      "hashtag": "mahasiswa",
+      "source": "vocabulary",
+      "reasoning": "Menandai identitas peserta acara—mahasiswa/mahasiswi yang diwisuda.",
+      "viral_score": 48.51,
+      "avg_likes": 2291.21,
+      "avg_comments": 38.75,
+      "post_count": 52,
+      "lift": 2.17,
+      "frequency": 45
+    },
+    {
+      "hashtag": "fosteringandempowering",
+      "source": "vocabulary",
+      "reasoning": "Relevan jika konten menonjolkan pemberdayaan lulusan.",
+      "viral_score": 44.18,
+      "avg_likes": 494.51,
+      "avg_comments": 6.96,
+      "post_count": 57,
+      "lift": 25.49,
+      "frequency": 57
+    },
+    {
+      "hashtag": "yourfuturestartshere",
+      "source": "vocabulary",
+      "reasoning": "Menghubungkan momen wisuda dengan awal perjalanan karier dan masa depan.",
+      "viral_score": 43.1,
+      "avg_likes": 620.34,
+      "avg_comments": 3.48,
+      "post_count": 56,
+      "lift": 15.09,
+      "frequency": 56
+    },
+    {
+      "hashtag": "campuslife",
+      "source": "vocabulary",
+      "reasoning": "Menyorot pengalaman kampus yang berujung pada momen wisuda.",
+      "viral_score": 39.89,
+      "avg_likes": 944.24,
+      "avg_comments": 11.27,
+      "post_count": 37,
+      "lift": 5.43,
+      "frequency": 33
+    },
+    {
+      "hashtag": "jointhebright",
+      "source": "vocabulary",
+      "reasoning": "Relevan untuk ajakan/branding kampus yang merayakan lulusan sebagai 'bright' yang baru.",
+      "viral_score": 27.31,
+      "avg_likes": 296.62,
+      "avg_comments": 1.92,
+      "post_count": 13,
+      "lift": 4.9,
+      "frequency": 13
+    },
+    {
+      "hashtag": "studyinindonesia",
+      "source": "arm",
+      "reasoning": "Cocok jika ingin menekankan konteks pendidikan di Indonesia saat menampilkan wisuda.",
+      "viral_score": 26.89,
+      "avg_likes": 354.94,
+      "avg_comments": 2.62,
+      "post_count": 16,
+      "lift": 45.2,
+      "frequency": 10
+    },
+    {
+      "hashtag": "globallearning",
+      "source": "arm",
+      "reasoning": "Cocok jika wisuda juga menampilkan pengalaman internasional atau capaian global.",
+      "viral_score": 26.27,
+      "avg_likes": 194.43,
+      "avg_comments": 0.29,
+      "post_count": 14,
+      "lift": 45.2,
+      "frequency": 13
+    },
+    {
+      "hashtag": "mahasiswaberprestasi",
+      "source": "vocabulary",
+      "reasoning": "Relevan jika menyorot prestasi lulusan atau pencapaian akademik.",
+      "viral_score": 24.52,
+      "avg_likes": 2018.88,
+      "avg_comments": 11.71,
+      "post_count": 17,
+      "lift": 1.0,
+      "frequency": 14
+    }
+  ],
+  "summary": "Kumpulan tag relevan untuk konten wisuda yang menekankan momen kelulusan, identitas mahasiswa, prestasi, pemberdayaan lulusan, dan kaitan dengan masa depan/kontribusi sosial.",
+  "confidence": "medium",
+  "_vocabulary_size": 54,
+  "_arm_candidates_count": 9,
+  "_gpt_suggested": 14,
+  "_filtered_out": 4,
+  "_raw_response": "{\"recommendations\":[{\"hashtag\":\"#wisuda\",\"reasoning\":\"Tag inti untuk konten kelulusan/seremonial wisuda.\"},{\"hashtag\":\"#mahasiswa\",\"reasoning\":\"Menandai identitas peserta acara—mahasiswa/mahasiswi yang diwisuda.\"},{\"hashtag\":\"#mahasiswaberprestasi\",\"reasoning\":\"Relevan jika menyorot prestasi lulusan atau pencapaian akademik.\"},{\"hashtag\":\"#yourfuturestartshere\",\"reasoning\":\"Menghubungkan momen wisuda dengan awal perjalanan karier dan masa depan.\"},{\"hashtag\":\"#creatingthefuture\",\"reasoning\":\"Men"
+}
